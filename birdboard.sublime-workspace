@@ -1,0 +1,1120 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"class",
+				"class\tclass …"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"calc",
+				"calculateLength"
+			],
+			[
+				"calculate",
+				"calculateLength"
+			],
+			[
+				"infoWin",
+				"infoWinPolygon"
+			],
+			[
+				"calculat",
+				"calculateArea"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"info",
+				"infoWinClose"
+			],
+			[
+				"po",
+				"polygon"
+			],
+			[
+				"lat",
+				"latLng"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"Featured",
+				"FeaturedImageFromUrlFixer"
+			],
+			[
+				"ad",
+				"addressResult"
+			],
+			[
+				"primary",
+				"primary_contact_id"
+			],
+			[
+				"ema",
+				"email_2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/projects/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 1291,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/ProjectsController.php",
+			"settings":
+			{
+				"buffer_size": 1272,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/Feature/ManageProjectsTest.php",
+			"settings":
+			{
+				"buffer_size": 3657,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"phpuni",
+				"PHPUnit: Run"
+			],
+			[
+				"phpu",
+				"PHPUnit: Run"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"colorsublime",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bulmafield"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"colorsubli",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: b",
+				"Snippet: bulmafield"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/code/birdboard",
+		"/D/code/birdboard/app",
+		"/D/code/birdboard/app/Policies",
+		"/D/code/birdboard/resources",
+		"/D/code/birdboard/resources/js",
+		"/D/code/birdboard/resources/sass",
+		"/D/code/birdboard/resources/views",
+		"/D/code/birdboard/resources/views/auth",
+		"/D/code/birdboard/resources/views/layouts",
+		"/D/code/birdboard/resources/views/projects",
+		"/D/code/birdboard/tests",
+		"/D/code/birdboard/tests/Feature",
+		"/D/code/birdboard/tests/Unit"
+	],
+	"file_history":
+	[
+		"/D/code/birdboard/routes/web.php",
+		"/D/code/birdboard/app/Http/Controllers/ProjectsController.php",
+		"/D/code/birdboard/tests/Feature/ManageProjectsTest.php",
+		"/D/code/birdboard/tests/Feature/ProjectTasksTest.php",
+		"/D/code/birdboard/tests/Setup/ProjectFactory.php",
+		"/D/code/birdboard/tests/TestCase.php",
+		"/D/code/birdboard/app/Policies/ProjectPolicy.php",
+		"/D/code/birdboard/app/Providers/AuthServiceProvider.php",
+		"/D/code/birdboard/app/Http/Controllers/ProjectTasksController.php",
+		"/D/code/birdboard/resources/views/projects/show.blade.php",
+		"/D/code/birdboard/tailwind.js",
+		"/D/code/birdboard/resources/sass/app.scss",
+		"/D/code/birdboard/resources/views/projects/create.blade.php",
+		"/D/code/birdboard/resources/views/layouts/app.blade.php",
+		"/D/code/birdboard/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/views/layout.blade.php",
+		"/D/code/birdboard/resources/views/auth/register.blade.php",
+		"/D/code/birdboard/resources/views/auth/login.blade.php",
+		"/D/code/birdboard/app/Task.php",
+		"/D/code/birdboard/tests/Unit/TaskTest.php",
+		"/D/code/birdboard/app/User.php",
+		"/D/code/birdboard/database/migrations/2019_03_27_191004_create_projects_table.php",
+		"/D/code/birdboard/database/factories/TaskFactory.php",
+		"/D/code/birdboard/database/factories/ProjectFactory.php",
+		"/D/code/birdboard/app/Project.php",
+		"/D/code/birdboard/database/migrations/2019_04_04_215056_create_tasks_table.php",
+		"/D/code/birdboard/tests/Unit/ProjectTest.php",
+		"/D/code/birdboard/resources/views/projects/index.blade.php",
+		"/D/code/birdboard/resources/views/projects/card.blade.php",
+		"/D/code/birdboard/views/projects/card.blade.php",
+		"/D/code/birdboard/webpack.mix.js",
+		"/D/code/birdboard/package.json",
+		"/D/code/birdboard/.editorconfig",
+		"/D/code/birdboard/.env",
+		"/D/code/birdboard/.env.testing",
+		"/D/code/birdboard/app/Providers/AppServiceProvider.php",
+		"/D/code/snowpatch/resources/views/layouts/maps/editable.blade.php",
+		"/D/code/snowpatch/.env",
+		"/D/code/snowpatch/resources/views/layouts/maps/editable_map.js",
+		"/D/code/snowpatch/resources/views/maps/edit.blade.php",
+		"/D/code/birdboard/config/app.php",
+		"/D/code/birdboard/tests/Unit/UserTest.php",
+		"/D/code/birdboard/app/Http/Controllers/HomeController.php",
+		"/D/code/birdboard/tests/Feature/ProjectsTest.php",
+		"/C/Users/Erich/AppData/Roaming/Sublime Text 3/Packages/SimplePHPUnit/SimplePHPUnit.sublime-settings",
+		"/C/Users/Erich/AppData/Roaming/Sublime Text 3/Packages/SimplePHPUnit/SimplePHPUnit.py",
+		"/C/Users/Erich/AppData/Roaming/Sublime Text 3/Packages/User/SimplePHPUnit.sublime-settings",
+		"/C/Users/Erich/AppData/Roaming/Sublime Text 3/Packages/User/test.sublime-snippet",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/code/snowman/app/AccountSetting.php",
+		"/D/code/snowman/tests/Unit/MapTest.php",
+		"/D/code/snowman/database/migrations/2019_03_15_032013_create_jobsites_table.php",
+		"/D/code/snowman/.schema",
+		"/D/code/snowman/tests/Unit/AccountTest.php",
+		"/D/code/snowman/tests/Unit/AccountSettingTest.php",
+		"/D/code/snowman/database/migrations/2019_03_26_173755_create_account_settings_table.php",
+		"/D/code/snowman/database/migrations/2019_03_15_020749_create_accounts_table.php",
+		"/D/code/snowman/.env.testing",
+		"/D/code/snowman/.env",
+		"/D/code/snowman/phpunit.xml",
+		"/D/code/snowman/app/Account.php",
+		"/D/code/snowman/database/migrations/2019_03_15_040823_create_contacts_table.php",
+		"/D/code/snowman/app/Jobsite.php",
+		"/D/code/snowman/tests/Unit/JobsiteTest.php",
+		"/D/code/snowman/tests/Unit/ServiceTest.php",
+		"/D/code/snowman/tests/Unit/EstimateTest.php",
+		"/D/code/snowman/database/migrations/2019_03_26_151824_create_services_table.php",
+		"/D/code/snowman/app/Service.php",
+		"/D/code/snowman/app/Estimate.php",
+		"/D/code/snowman/database/migrations/2019_03_26_151837_create_estimates_table.php",
+		"/D/code/snowman/tests/Unit/ContactTest.php",
+		"/D/code/snowman/tests/Unit/CustomerTest.php",
+		"/D/code/snowman/tests/Feature/ExampleTest.php",
+		"/D/code/snowman/database/migrations/2019_03_26_144420_create_maps_table.php",
+		"/D/code/snowman/tests/Unit/UserTest.php",
+		"/D/code/snowman/database/migrations/2019_03_15_021043_create_customers_table.php",
+		"/D/code/snowman/app/Map.php",
+		"/D/code/snowman/app/Customer.php",
+		"/D/code/snowman/routes/web.php",
+		"/D/code/snowman/app/Http/Controllers/HomeController.php",
+		"/D/code/snowman/composer.json",
+		"/D/code/snowman/app/Contact.php",
+		"/D/code/snowman/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/code/laravel/teams/tests/Unit/UsersTest.php",
+		"/D/code/snowman/tests/Unit/ExampleTest.php",
+		"/D/code/snowman/app/User.php",
+		"/C/Users/Erich/Homestead/Homestead.yaml",
+		"/D/code/snowman/app/Provider.php",
+		"/D/code/snowman/database/migrations/2019_03_14_211427_create_accounts_table.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/teams/routes/web.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/teams/tests/Feature/TeamsTest.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/teams/tests/Unit/UsersTest.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/teams/app/User.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/teams/app/Http/Middleware/Authenticate.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/teams/app/Team.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/teams/database/migrations/2019_03_12_015125_create_teams_table.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/teams/.env",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/.env",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Http/Controllers/ProjectsController.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Project.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/User.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/resources/views/projects/index.blade.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/resources/views/projects/show.blade.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Mail/ProjectDeleted.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Listeners/SendProjectCreatedNotification.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Events/ProjectCreated.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Providers/EventServiceProvider.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Events/ProjectDeleted.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Listeners/SendProjectDeletedNotification.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/resources/views/mail/project-created.blade.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Mail/ProjectCreated.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/resources/views/mail/project-deleted.blade.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Listeners/SendProjectCreatedNofication.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/resources/views/projects/edit.blade.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/routes/web.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/config/mail.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/resources/views/errors.blade.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Providers/AuthServiceProvider.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Policies/ProjectPolicy.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Providers/TelescopeServiceProvider.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/database/migrations/2019_02_26_215714_create_projects_table.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/.editorconfig",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Providers/SocialServiceProvider.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/config/app.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Twitter.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Example.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Providers/AppServiceProvider.php",
+		"/D/Google Drive (epixianllc@gmail.com)/code/laravel/project/app/Services/Twitter.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Lorem ipsum",
+			"actingAs(factory('App\\User')->create",
+			"card",
+			"h2",
+			"colors",
+			"->middleware('auth')",
+			"make",
+			"jobsite",
+			"map",
+			"Service",
+			"service",
+			"Jobsite",
+			"customer",
+			"jobsite",
+			"customer_id",
+			"account",
+			"customer",
+			"account",
+			"jobsite",
+			"user",
+			"li",
+			"define",
+			"ul",
+			"h2",
+			"p",
+			"id",
+			"235, 237, 239",
+			"38, 50, 56",
+			"$map->center",
+			");\n",
+			"copyGeoJSON",
+			"infoWin",
+			"features.",
+			"setop",
+			"points",
+			"\\s+",
+			"\\n",
+			"\\\\n",
+			"prop0",
+			"local_file_path",
+			"profilepicture",
+			"utf8mb4_unicode_520_ci"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"updateGeoJSON",
+			"",
+			"type",
+			"new_file_path",
+			"local_file_path",
+			"imagepath",
+			"profilepicture",
+			"utf8mb4_unicode_ci"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/projects/create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1291,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/ProjectsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1272,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1220,
+								1220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/Feature/ManageProjectsTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3657,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2067,
+								2067
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1518.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 47.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 264.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "birdboard.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"manage",
+				"tests\\Feature\\ManageProjectsTest.php"
+			],
+			[
+				"projectcontr",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"web",
+				"routes\\web.php"
+			],
+			[
+				"projectcreate",
+				"resources\\views\\projects\\create.blade.php"
+			],
+			[
+				"testca",
+				"tests\\TestCase.php"
+			],
+			[
+				"testc",
+				"tests\\TestCase.php"
+			],
+			[
+				"projtaskte",
+				"tests\\Feature\\ProjectTasksTest.php"
+			],
+			[
+				"projtaskc",
+				"app\\Http\\Controllers\\ProjectTasksController.php"
+			],
+			[
+				"authserv",
+				"app\\Providers\\AuthServiceProvider.php"
+			],
+			[
+				"projectpoli",
+				"app\\Policies\\ProjectsPolicy.php"
+			],
+			[
+				"create.bla",
+				"resources\\views\\projects\\create.blade.php"
+			],
+			[
+				"views/layouts",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"layout.bl",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\views\\layout.blade.php"
+			],
+			[
+				"regiser.bl",
+				"resources\\views\\auth\\register.blade.php"
+			],
+			[
+				"app.scs",
+				"resources\\sass\\app.scss"
+			],
+			[
+				"tail",
+				"tailwind.js"
+			],
+			[
+				"login.b",
+				"resources\\views\\auth\\login.blade.php"
+			],
+			[
+				"show",
+				"resources\\views\\projects\\show.blade.php"
+			],
+			[
+				"rou/we",
+				"routes\\web.php"
+			],
+			[
+				"createproject",
+				"database\\migrations\\2019_03_27_191004_create_projects_table.php"
+			],
+			[
+				"projecont",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"user.",
+				"app\\User.php"
+			],
+			[
+				"projcont",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"task",
+				"app\\Task.php"
+			],
+			[
+				"projectstes",
+				"tests\\Feature\\ManageProjectsTest.php"
+			],
+			[
+				"proj.php",
+				"app\\Project.php"
+			],
+			[
+				"task.",
+				"app\\Task.php"
+			],
+			[
+				"projectf",
+				"database\\factories\\ProjectFactory.php"
+			],
+			[
+				"taskfa",
+				"database\\factories\\TaskFactory.php"
+			],
+			[
+				"taskt",
+				"tests\\Unit\\TaskTest.php"
+			],
+			[
+				"create_task",
+				"database\\migrations\\2019_04_04_215056_create_tasks_table.php"
+			],
+			[
+				"rout/web",
+				"routes\\web.php"
+			],
+			[
+				"projecttaskc",
+				"app\\Http\\Controllers\\ProjectTasksController.php"
+			],
+			[
+				"tasks_ta",
+				"database\\migrations\\2019_04_04_215056_create_tasks_table.php"
+			],
+			[
+				"prtaste",
+				"tests\\Feature\\ProjectTasksTest.php"
+			],
+			[
+				"projeccont",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"projectfa",
+				"database\\factories\\ProjectFactory.php"
+			],
+			[
+				"projtaskcon",
+				"app\\Http\\Controllers\\ProjectTasksController.php"
+			],
+			[
+				"manag",
+				"tests\\Feature\\ManageProjectsTest.php"
+			],
+			[
+				"show.bla",
+				"resources\\views\\projects\\show.blade.php"
+			],
+			[
+				"create_proj",
+				"database\\migrations\\2019_03_27_191004_create_projects_table.php"
+			],
+			[
+				"create_tas",
+				"database\\migrations\\2019_04_04_215056_create_tasks_table.php"
+			],
+			[
+				"Task",
+				"app\\Task.php"
+			],
+			[
+				"projectte",
+				"tests\\Unit\\ProjectTest.php"
+			],
+			[
+				"project.p",
+				"app\\Project.php"
+			],
+			[
+				"projecttasksc",
+				"app\\Http\\Controllers\\ProjectTasksController.php"
+			],
+			[
+				"web.",
+				"routes\\web.php"
+			],
+			[
+				"managepro",
+				"tests\\Feature\\ManageProjectsTest.php"
+			],
+			[
+				"manageproj",
+				"tests\\Feature\\ManageProjectsTest.php"
+			],
+			[
+				"projecttask",
+				"tests\\Feature\\ProjectTasksTest.php"
+			],
+			[
+				"index.bl",
+				"resources\\views\\projects\\index.blade.php"
+			],
+			[
+				"show.",
+				"resources\\views\\projects\\show.blade.php"
+			],
+			[
+				"tailwin",
+				"tailwind.js"
+			],
+			[
+				"r/app.sc",
+				"resources\\sass\\app.scss"
+			],
+			[
+				"lay/app",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"pro/index.bl",
+				"resources\\views\\projects\\index.blade.php"
+			],
+			[
+				"app.bl",
+				"resources\\views\\layouts\\app.blade.php"
+			],
+			[
+				"webpa",
+				"webpack.mix.js"
+			],
+			[
+				"tailwind",
+				"tailwind.js"
+			],
+			[
+				"proj/index",
+				"resources\\views\\projects\\index.blade.php"
+			],
+			[
+				"index.bla",
+				"resources\\views\\projects\\index.blade.php"
+			],
+			[
+				"webpac",
+				"webpack.mix.js"
+			],
+			[
+				"P.scss",
+				"resources\\sass\\app.scss"
+			],
+			[
+				"app.sc",
+				"resources\\sass\\app.scss"
+			],
+			[
+				"packag",
+				"package.json"
+			],
+			[
+				"",
+				".editorconfig"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"create.b",
+				"resources\\views\\projects\\create.blade.php"
+			],
+			[
+				"appser",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				".env.t",
+				".env.testing"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"app.p",
+				"config\\app.php"
+			],
+			[
+				"creat",
+				"resources\\views\\projects\\create.blade.php"
+			],
+			[
+				"index.",
+				"resources\\views\\projects\\index.blade.php"
+			],
+			[
+				"projte",
+				"tests\\Unit\\ProjectTest.php"
+			],
+			[
+				"projcon",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"homecon",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"usert",
+				"tests\\Unit\\UserTest.php"
+			],
+			[
+				"proje",
+				"app\\Project.php"
+			],
+			[
+				"project.",
+				"app\\Project.php"
+			],
+			[
+				"postontro",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"projfac",
+				"database\\factories\\ProjectFactory.php"
+			],
+			[
+				"creaproj",
+				"database\\migrations\\2019_03_27_191004_create_projects_table.php"
+			],
+			[
+				"protest",
+				"tests\\Feature\\ProjectsTest.php"
+			],
+			[
+				"projectst",
+				"tests\\Feature\\ProjectsTest.php"
+			],
+			[
+				"projete",
+				"tests\\Unit\\ProjectTest.php"
+			],
+			[
+				"projectcon",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"procontr",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"projects on",
+				"app\\Http\\Controllers\\ProjectsController.php"
+			],
+			[
+				"create_",
+				"database\\migrations\\2019_03_27_191004_create_projects_table.php"
+			],
+			[
+				"projec",
+				"app\\Project.php"
+			],
+			[
+				".env.te",
+				".env.testing"
+			],
+			[
+				"phpun",
+				"phpunit.xml"
+			],
+			[
+				"accountte",
+				"tests\\Unit\\AccountTest.php"
+			],
+			[
+				"maptes",
+				"tests\\Unit\\MapTest.php"
+			],
+			[
+				"accountsettingt",
+				"tests\\Unit\\AccountSettingTest.php"
+			],
+			[
+				"accountse",
+				"app\\AccountSetting.php"
+			],
+			[
+				"accoutn",
+				"app\\Account.php"
+			],
+			[
+				"create_job",
+				"database\\migrations\\2019_03_15_032013_create_jobsites_table.php"
+			],
+			[
+				"create_ser",
+				"database\\migrations\\2019_03_26_151824_create_services_table.php"
+			],
+			[
+				"estimatet",
+				"tests\\Unit\\EstimateTest.php"
+			],
+			[
+				"servicete",
+				"tests\\Unit\\ServiceTest.php"
+			],
+			[
+				"service",
+				"app\\Service.php"
+			],
+			[
+				"estimate.",
+				"app\\Estimate.php"
+			],
+			[
+				"estim",
+				"database\\migrations\\2019_03_26_151837_create_estimates_table.php"
+			],
+			[
+				"estimates",
+				"database\\migrations\\2019_03_26_151837_create_estimates_table.php"
+			],
+			[
+				"jobsitete",
+				"tests\\Unit\\JobsiteTest.php"
+			],
+			[
+				".sc",
+				".schema"
+			],
+			[
+				".sch",
+				".schema"
+			],
+			[
+				"mapte",
+				"tests\\Unit\\MapTest.php"
+			],
+			[
+				"map",
+				"app\\Map.php"
+			],
+			[
+				"create_cus",
+				"database\\migrations\\2019_03_15_021043_create_customers_table.php"
+			],
+			[
+				"create_map",
+				"database\\migrations\\2019_03_26_144420_create_maps_table.php"
+			],
+			[
+				"cus",
+				"app\\Customer.php"
+			],
+			[
+				"job",
+				"app\\Jobsite.php"
+			],
+			[
+				"jobsit",
+				"database\\migrations\\2019_03_15_032013_create_jobsites_table.php"
+			],
+			[
+				"accoun",
+				"app\\Account.php"
+			],
+			[
+				"jobs",
+				"app\\Jobsite.php"
+			],
+			[
+				"schema",
+				".schema"
+			],
+			[
+				"custom",
+				"app\\Customer.php"
+			],
+			[
+				"pro",
+				"app\\Provider.php"
+			],
+			[
+				"users",
+				"tests\\Unit\\UsersTest.php"
+			],
+			[
+				"use",
+				"app\\User.php"
+			],
+			[
+				"h/m/a",
+				"app\\Http\\Middleware\\Authenticate.php"
+			],
+			[
+				"teamst",
+				"tests\\Feature\\TeamsTest.php"
+			],
+			[
+				"team.",
+				"app\\Team.php"
+			],
+			[
+				"teams",
+				"tests\\Feature\\TeamsTest.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
