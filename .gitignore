@@ -9,3 +9,5 @@ Homestead.yaml
 npm-debug.log
 yarn-error.log
 *.testing
+public/css/app.css
+public/js/app.js
