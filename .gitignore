@@ -11,3 +11,4 @@ yarn-error.log
 *.testing
 public/css/app.css
 public/js/app.js
+birdboard.sublime-workspace
