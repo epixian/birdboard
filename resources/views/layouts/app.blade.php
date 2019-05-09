@@ -44,34 +44,29 @@
                             @else
                                 <theme-switcher></theme-switcher>
 
+                                <dropdown align="right" width="200px">
+                                    <template v-slot:trigger>
+                                        <button 
+                                            class="flex items-center text-default no-underline text-sm">
+                                            <img width="35"
+                                                src="{{ gravatar_url(auth()->user()->email) }}" 
+                                                alt="{{ auth()->user()->name }}"
+                                                class="rounded-full mr-3">
 
+                                            {{ auth()->user()->name }}
+                                        </button>
+                                    </template>
 
-                                <a 
-                                    id="navbarDropdown" 
-                                    class="nav-link dropdown-toggle" 
-                                    href="#" role="button" 
-                                    data-toggle="dropdown" 
-                                    aria-haspopup="true" 
-                                    aria-expanded="false" 
-                                    v-pre>
-                                    <img 
-                                        src="{{ gravatar_url(auth()->user()->email) }}" 
-                                        alt="{{ auth()->user()->name }}" 
-                                        style="filter:drop-shadow(2px 2px 2px rgba(0,0,0,0.5))"
-                                        class="rounded-full w-8">
-                                </a>
-
-                                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="{{ route('logout') }}"
-                                           onclick="event.preventDefault();
-                                                         document.getElementById('logout-form').submit();">
-                                            {{ __('Logout') }}
-                                    </a>
-
-                                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
-                                            @csrf
+                                    <form id="logout-form" method="POST" action="/logout">
+                                        @csrf
+                                        <button type="submit" class="dropdown-menu-link w-full text-left">
+                                            Logout
+                                        </button>
                                     </form>
-                                </div>
+
+                                </dropdown>
+
+
                             @endguest
                         </div>
                     </div>
